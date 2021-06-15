@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iycoPKqQKLqXgpoD68vgo5gRqErdy+kHZufUnVKZYOpc7KmB1bJLwx05oTOF/9rGGU6VVcGXdI/tttEYtyCwgw==",
+  "success": true,
+  "projectFilePath": "C:\\git\\csharp-examples\\Cadastro\\Cadastro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
